@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Aproveite na TV.",
+      "subTitle": "Assista em Smart TVs, PlayStation, Xbox, Chromecast, Apple TV, aparelhos de Blu-ray e outros dispositivos.",
+      "image": "/images/misc/home-tv.jpg",
+      "alt": "Tiger King on Netflix",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "Baixe séries para assistir offline.",
+      "subTitle": "Salve seus títulos favoritos e sempre tenha algo para assistir.",
+      "image": "/images/misc/home-mobile.jpg",
+      "alt": "Watch on mobile",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "Assista quando quiser.",
+      "subTitle": "Assista no celular, tablet, Smart TV ou notebook sem pagar a mais por isso.",
+      "image": "/images/misc/home-imac.jpg",
+      "alt": "Money Heist on Netflix",
+      "direction": "row"
+    },
+    {
+        "id": 4,
+        "title": "Crie perfis para crianças.",
+        "subTitle": "Deixe as crianças se aventurarem com seus personagens favoritos em um espaço feito só para elas, sem pagar a mais por isso.",
+        "image": "/images/misc/infantil.jpg",
+        "alt": "Money Heist on Netflix",
+        "direction": "row"
+      }
+  ]
