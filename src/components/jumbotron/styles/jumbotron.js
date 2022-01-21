@@ -1,9 +1,11 @@
 import styled from 'styled-components/macro';
 
+export const Item = styled.div``;
+
 export const Inner = styled.div`
     display: flex;
     align-items: center;
-    flex-direction: ${({direction}) => direction}
+    flex-direction: ${({direction}) => direction};
     justify-content: space-between;
     max-width: 1100px;  
     margin: auto;
@@ -39,7 +41,7 @@ export const Subtitle = styled.h2`
   @media (max-width: 600px) {
     font-size: 18px;
   }
-`;
+`; 
 
 export const Image = styled.img`
   max-width: 100%;
