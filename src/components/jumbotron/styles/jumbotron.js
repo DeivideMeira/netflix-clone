@@ -6,12 +6,12 @@ export const Item = styled.div`
   padding: 50px 5%;
   color: white;
   overflow: hidden;
-  `;
+`;
 
 export const Inner = styled.div`
     display: flex;
     align-items: center;
-    flex-direction: ${({direction}) => direction};
+    flex-direction: ${({ direction }) => direction};
     justify-content: space-between;
     max-width: 1100px;  
     margin: auto;
@@ -24,6 +24,7 @@ export const Inner = styled.div`
 
 export const Pane = styled.div`
   width: 50%;
+
   @media (max-width: 1000px) {
     width: 100%;
     padding: 0 45px;
@@ -44,6 +45,7 @@ export const Subtitle = styled.h2`
   font-size: 26px;
   font-weight: normal;
   line-height: normal;
+
   @media (max-width: 600px) {
     font-size: 18px;
   }
